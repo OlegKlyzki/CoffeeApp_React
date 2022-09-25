@@ -1,0 +1,1 @@
+export const navBarItems = ['Home', 'About', 'Coffees', 'Shop', 'Blog', 'Contact Us'];
